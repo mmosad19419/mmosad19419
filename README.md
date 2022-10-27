@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @mmosad19419
-- 👀 I’m interested in Machine Learning and AI and Data Science
-- 🌱 I’m currently learning Machine Learning and Data Science
-- 💞️ I’m looking to collaborate on Machine Learning, and Data Science Projects
+- 👀 I’m interested in Data Science, Data Engineering, Machine Learning and AI
+- 🌱 I’m currently learning Data Science, Data Engineering, and Machine Learning
+- 💞️ I’m looking to collaborate on Data Science, Data Engineering, and Machine Learning Projects
 - 📫 How to reach me mo7mdmosad@gmail.com
 
 Mohamed Mosad Engineer and Data Scientist, enthusiast about data and how it helps to see the unseen,
